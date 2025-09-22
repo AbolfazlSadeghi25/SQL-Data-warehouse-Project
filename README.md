@@ -89,4 +89,8 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+🌟 About Me
+Hi there! I'm Abolfazl Sadeghi. I’m an IE undergraduate in Shahid Beheshti University on to learn new things about data
 
+connect with me:
+abolfazl84.as@gmail.com
